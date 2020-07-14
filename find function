@@ -1,0 +1,9 @@
+ = -2:7;
+?find(x>5);
+result: 
+9 
+10
+x = linspace(0,10e-6,100);
+?x( find(x,5e-6) );
+result: 
+5.05051e-006 
